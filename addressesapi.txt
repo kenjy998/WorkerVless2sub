@@ -4,3 +4,4 @@
 104.19.236.89:2083#company2
 104.16.77.206:2053#company-WiFi
 www.okcupid.com:2053#GM
+2606:4700:: :2053#GM
